@@ -185,3 +185,12 @@ The `main.py` script orchestrates the entire process:
       * **Revision (Round 2):** Fetches the existing code, applies the changes requested in the new `brief` (via a second LLM call), and pushes a new commit.
 4.  **GitHub Pages Activation:** Ensures GitHub Pages is enabled on the `main` branch.
 5.  **Evaluation Notification:** Constructs the final JSON payload with `repo_url`, `commit_sha`, and `pages_url`, and POSTs it to the provided `evaluation_url`, handling retries on error.
+
+
+---
+
+## Contribute
+Feel free to explore, enhance, and contribute to this project! Pull requests and suggestions are always welcome.
+
+## Contact
+For any queries or issues, reach out to **Devodita Chakravarty** at [devoditac@gmail.com](mailto:devoditac@gmail.com).
