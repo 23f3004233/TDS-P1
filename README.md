@@ -1,6 +1,6 @@
 # TDS-P1
 
-This repository holds the code for the **LLM Code Deployment** project, a core component of the Tools in Data Science course (Project 1) at IITM.
+This repository holds the code for the **LLM Code Deployment** project, a core component of the Tools in Data Science course (Project 1) at IIT Madras, Online Data Science and Applications (Diploma Level).
 
 -----
 
@@ -25,9 +25,7 @@ The application acts as a fully automated software development pipeline. It rece
 
 You can interact with the live deployed API endpoint for this project here:
 
-\<a href="[https://devodita-tdsp.hf.space/ready](https://devodita-tdsp.hf.space/ready)" target="\_blank"\>**[https://devodita-tdsp.hf.space/ready](https://devodita-tdsp.hf.space/ready)**\</a\>
-
-*(Note: This URL is the actual API endpoint students are expected to submit to the instructors.)*
+https://devodita-tdsp.hf.space/ready
 
 -----
 
